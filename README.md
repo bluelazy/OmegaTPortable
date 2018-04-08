@@ -1,6 +1,6 @@
 # README
 
-> OmegaTPortable 為 [OmegaT](http://omegat.org/) 的免安裝版本 可以方便的把設定檔備份以及帶著走
+> OmegaTPortable 為 [OmegaT](http://omegat.org/) 翻譯工具的免安裝版本 可以方便的把設定檔備份以及帶著走
 
 ## Download
 
@@ -11,7 +11,16 @@
 
 ### Desc
 
+* 支援詞彙表功能方便查看譯名與取代
+* 簡易的翻譯記憶 可以幫助處理翻譯過的重覆內容
+* 可以匯入 txt 以及 word 檔
+
+### 免安裝版
+
 * 此免安裝版已整合進部分非官方預設值以及部分插件
+* txt 譯文預設會輸出為 utf8 編碼
+* 更改了官方原文分節樣式
+
 * 設定值儲存於 `Data/settings`
 * 如需自行更新替換版本 請取代 `App/bin` 內的檔案即可
 
