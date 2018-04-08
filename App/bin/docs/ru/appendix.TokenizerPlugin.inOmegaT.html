@@ -1,0 +1,120 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <title>Приложение D. Модуль «tokenizer»</title>
+      <link rel="stylesheet" type="text/css" href="OmegaT.css">
+      <meta name="generator" content="DocBook XSL Stylesheets V1.78.1">
+      <link rel="home" href="index.html" title="Руководство пользователя ОмегаТ 3.0">
+      <link rel="up" href="index.html" title="Руководство пользователя ОмегаТ 3.0">
+      <link rel="prev" href="appendix.TeamProjects.html" title="Приложение C. Командные проекты в ОмегаТ">
+      <link rel="next" href="appendix.LanguageToolPlugin.inOmegaT.html" title="Приложение E. Модуль «LanguageTool»">
+   </head>
+   <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+      <div class="navheader">
+         <table width="100%" summary="Navigation header">
+            <tr>
+               <th colspan="3" align="center">Приложение D. Модуль «tokenizer»</th>
+            </tr>
+            <tr>
+               <td width="20%" align="left"><a accesskey="p" href="appendix.TeamProjects.html">Пред.</a>&nbsp;
+               </td>
+               <th width="60%" align="center">&nbsp;</th>
+               <td width="20%" align="right">&nbsp;<a accesskey="n" href="appendix.LanguageToolPlugin.inOmegaT.html">След.</a></td>
+            </tr>
+         </table>
+         <hr>
+      </div>
+      <div class="appendix">
+         <div class="titlepage">
+            <div>
+               <div>
+                  <h1 class="title"><a name="appendix.TokenizerPlugin.inOmegaT"></a>Приложение D. Модуль «tokenizer»<a class="indexterm" name="d0e10756"></a></h1>
+               </div>
+            </div>
+         </div>
+         <div class="toc">
+            <dl class="toc">
+               <dt><span class="section"><a href="appendix.TokenizerPlugin.inOmegaT.html#d0e10761">1. Введение</a></span></dt>
+               <dt><span class="section"><a href="appendix.TokenizerPlugin.inOmegaT.html#d0e10790">2. Установка и использование</a></span></dt>
+            </dl>
+         </div>
+         <div class="section">
+            <div class="titlepage">
+               <div>
+                  <div>
+                     <h2 class="title" style="clear: both"><a name="d0e10761"></a>1. Введение<a class="indexterm" name="d0e10764"></a><a class="indexterm" name="d0e10769"></a></h2>
+                  </div>
+               </div>
+            </div>
+            <p>Модуль морфологического поиска (называемый также алгоритмом выделения корней или токенизатором) используется для улучшения
+               нахождения совпадений за счёт выделения в исходных сегментах и переводе склоняемых слов. Также модуль улучшает поиск в глоссарии.
+            </p>
+            <p>Например, модуль морфологического поиска для английского языка определит, что строка «cats» (и, возможно, «catlike», «catty»
+               и т.&nbsp;д.) имеет корень «cat», а «stemmer», «stemming», «stemmed» образованы от «stem». Алгоритм выделит в словах «fishing»,
+               «fished», «fish», и «fisher» общий корень «fish». Этот модуль особенно полезен для языков, в которых активно используются
+               приставки, суффиксы и окончания. В качестве примера рассмотрим склонение слова «хороший» в словенском языке:
+            </p>
+            <div class="itemizedlist">
+               <ul class="itemizedlist" style="list-style-type: disc; ">
+                  <li class="listitem">
+                     <p>lep, lepa, lepo&nbsp;— единственное число, мужской, женский и средний род</p>
+                  </li>
+               </ul>
+            </div>
+            <div class="itemizedlist">
+               <ul class="itemizedlist" style="list-style-type: disc; ">
+                  <li class="listitem">
+                     <p>lepši, lepša, lepše . — сравнительная степень, именительный падеж, мужской, женский и средний род соответственно. Во множественном
+                        числе:
+                     </p>
+                  </li>
+               </ul>
+            </div>
+            <div class="itemizedlist">
+               <ul class="itemizedlist" style="list-style-type: disc; ">
+                  <li class="listitem">
+                     <p>najlepših&nbsp;— превосходная степень, множественное число, родительный падеж, мужской, женский и средний род.</p>
+                  </li>
+               </ul>
+            </div>
+         </div>
+         <div class="section">
+            <div class="titlepage">
+               <div>
+                  <div>
+                     <h2 class="title" style="clear: both"><a name="d0e10790"></a>2. Установка и использование
+                     </h2>
+                  </div>
+               </div>
+            </div>
+            <p>Модуль «Tokenizer» теперь поставляется вместе с ОмегаТ. ОмегаТ автоматически выбирает токенизаторы исходного языка и языка
+               перевода в соответствии с настройками проекта. В диалоговом окне «Проект &gt; Свойства...» можно выбрать другой токенизатор или
+               настроить используемую версию.
+            </p>
+            <div class="warning" style="margin-left: 0.5in; margin-right: 0.5in;">
+               <h3 class="title">Несовместимость</h3>
+               <p>ОмегаТ не сможет запуститься, если в каталоге «/plugin» установлена более старая версия модуля «tokenizer». Перед запуском
+                  ОмегаТ удалите все файлы модуля из каталога «/plugin».
+               </p>
+            </div>
+         </div>
+      </div>
+      <div class="navfooter">
+         <hr>
+         <table width="100%" summary="Navigation footer">
+            <tr>
+               <td width="40%" align="left"><a accesskey="p" href="appendix.TeamProjects.html">Пред.</a>&nbsp;
+               </td>
+               <td width="20%" align="center">&nbsp;</td>
+               <td width="40%" align="right">&nbsp;<a accesskey="n" href="appendix.LanguageToolPlugin.inOmegaT.html">След.</a></td>
+            </tr>
+            <tr>
+               <td width="40%" align="left" valign="top">Приложение C. Командные проекты в ОмегаТ&nbsp;</td>
+               <td width="20%" align="center"><a accesskey="h" href="index.html">Начало</a></td>
+               <td width="40%" align="right" valign="top">&nbsp;Приложение E. Модуль «LanguageTool»</td>
+            </tr>
+         </table>
+      </div>
+   </body>
+</html>

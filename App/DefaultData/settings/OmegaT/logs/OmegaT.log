@@ -1,0 +1,260 @@
+12490: Info: =================================================================== 
+12490: Info: OmegaT-4.1.4_0_10321 (Fri Apr 06 15:27:11 CST 2018)  Locale zh_TW 
+12490: Info: Java: Oracle Corporation ver. 1.8.0_144, executed from 'C:\Program Files\OmegaT\jre' (LOG_STARTUP_INFO)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.xliff.XLIFFFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.TextFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneEnglishTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.HunspellTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.BelazarTranslate' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.gui.scripting.ScriptingWindow' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.gui.glossary.taas.TaaSPlugin' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.externalfinder.ExternalFinder' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.subtitles.WebVttFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.infix.InfixFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.DeepLTranslate' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneRussianTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneSmartChineseTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneThaiTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneLatvianTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.ini.INIFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.openxml.OpenXMLFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneCatalanTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneBrazilianTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.resx.ResXFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MicrosoftTranslatorAzure' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.xhtml.XHTMLFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.visio.VisioFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.android.AndroidFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneGermanTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.xtagqxp.XtagFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneNorwegianTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.hhc.HHCFilter2' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MyMemoryMachineTranslate' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.properties.PropertiesFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneCJKTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneCzechTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.scribus.ScribusFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.gui.editor.mark.ComesFromMTMarker' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.flash.FlashFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.schematron.SchematronFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.html2.HTMLFilter2' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneBasqueTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneSwedishTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.latex.LatexFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneGalicianTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LucenePolishTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneTurkishTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.relaxng.RelaxNGFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.wordpress.WordpressFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneDanishTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LucenePersianTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.camtasiawindows.CamtasiaWindowsFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.subtitles.SbvFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.core.spellchecker.SpellCheckerMarker' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MosesTranslate' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.docbook.DocBookFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.pdf.PdfFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.subtitles.SrtFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.ApertiumTranslate' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.svg.SvgFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.MyMemoryHumanTranslate' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.mozlang.MozillaLangFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneSpanishTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.txml.TXMLFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LucenePortugueseTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneHindiTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.mozdtd.MozillaDTDFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneBulgarianTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.wix.WiXFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.DefaultTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.l10nmgr.L10nmgrFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneJapaneseTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.helpandmanual.HelpAndManualFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.po.PoFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.Google2Translate' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.core.machinetranslators.YandexTranslate' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneItalianTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.magento.MagentoFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneFinnishTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneHungarianTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneFrenchTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.xmlspreadsheet.XMLSpreadsheetFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneRomanianTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.rc.RcFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.bundles.ResourceBundleFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.dokuwiki.DokuWikiFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.gui.glossary.TransTipsMarker' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneIrishTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneIndonesianTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneGreekTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneArabicTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneArmenianTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.tokenizer.LuceneDutchTokenizer' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters2.text.ilias.ILIASFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.opendoc.OpenDocFilter' (PLUGIN_LOAD_OK)
+12490: Info: Plugin successfully loaded from class 'org.omegat.filters3.xml.typo3.Typo3Filter' (PLUGIN_LOAD_OK)
+12490: Info: Docking Framework version: 2.1.5 
+12490: Info: Event: application startup (LOG_INFO_EVENT_APPLICATION_STARTUP)
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\adapt_tags_to_match_target.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\auto_open_last_project.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\bad_extension.grvy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\check_rules.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\check_same_segments.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\check_same_segments.js' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\currency_translate.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\external_spellcheck.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\extract_text_content.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\gui_scripting.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\issue_provider_sample.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\keybinding.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\modify_segment.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\nbsp.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\open_current_file.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\open_folder.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\open_glossary.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\open_project_save.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\open_tm_folder.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\auto_open_last_project_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_be.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_cs.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_eu.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_fr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_hr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_ia.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_it.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_nl.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_no.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_pl.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_pt_BR.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_ru.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_sv.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\check_rules_uk.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\currency_translate_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\extract_text_content.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\extract_text_content_fr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\gui_scripting_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\issue_provider_sample.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\keybinding_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\modify_segment_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\nbsp.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\nbsp_be.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\nbsp_cs.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\nbsp_fr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\nbsp_hr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\nbsp_ia.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\nbsp_it.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\nbsp_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\nbsp_nl.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\nbsp_no.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\nbsp_pl.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\nbsp_pt_BR.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\nbsp_sv.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\open_current_file_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\open_folder_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\open_glossary_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\open_project_save_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\open_tm_folder_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags_be.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags_cs.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags_fr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags_hr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags_ia.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags_it.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags_nl.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags_no.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags_pl.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags_pt_BR.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags_ru.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags_sv.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_strip_tags_uk.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\replace_with_match_no_tags_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace_be.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace_cs.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace_eu.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace_fr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace_hr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace_ia.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace_it.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace_nl.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace_no.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace_pl.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace_pt_BR.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace_ru.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\search_replace_sv.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\show_same_segments_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_be.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_cs.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_eu.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_fr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_hr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_ia.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_it.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_nl.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_no.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_pl.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_pt_BR.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_ru.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_sv.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\spellcheck_uk.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\strip_bidi_marks.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\strip_bidi_marks_be.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\strip_bidi_marks_cs.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\strip_bidi_marks_fr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\strip_bidi_marks_hr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\strip_bidi_marks_ia.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\strip_bidi_marks_it.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\strip_bidi_marks_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\strip_bidi_marks_nl.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\strip_bidi_marks_no.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\strip_bidi_marks_pl.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\strip_bidi_marks_pt_BR.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\strip_bidi_marks_sv.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\svn_cleanup_selected.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\svn_cleanup_selected_cs.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\svn_cleanup_selected_fr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\svn_cleanup_selected_hr.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\svn_cleanup_selected_it.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\svn_cleanup_selected_sv.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\properties\toolbar_ja.properties' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\readme.txt' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\replace_strip_tags.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\replace_with_match_no_tags.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\search_replace.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\show_same_segments.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\spellcheck.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\strip_bidi_marks.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\svn_cleanup_selected.groovy' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\switch_colour_theme.js' added 
+12490: FINER: File 'C:\Program Files\OmegaT\scripts\toolbar.groovy' added 
+12490: Info: 可用的腳本引擎： 
+12490: Info:  - Groovy Scripting Engine Groovy v.2.4.12 (副檔名： groovy) 
+12490: Info:  - Oracle Nashorn ECMAScript v.ECMA - 262 Edition 5.1 (副檔名： js) 
+12490: Info: Click on 'projectMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'editMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'gotoMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'viewMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'viewMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'toolsMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'optionsMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'helpMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'optionsMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'optionsMachineTranslateMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'helpMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'optionsMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'toolsMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'viewMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'toolsMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'optionsMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'optionsPreferencesMenuItem' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'projectMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'projectAccessProjectFilesMenu' menu item (LOG_MENU_CLICK)
+12490: Info: Click on 'projectExitMenuItem' menu item (LOG_MENU_CLICK)
+12490: Info: Event: application shutdown (LOG_INFO_EVENT_APPLICATION_SHUTDOWN)
