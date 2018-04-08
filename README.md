@@ -4,7 +4,10 @@
 
 ## Download
 
+以下連結僅分流的網站不同而已
+
 * [OmegaTPortable](https://github.com/bluelazy/OmegaTPortable/archive/master.zip) (github)
+* [mediafire](http://www.mediafire.com/file/b1cyd7b5zn3br5n/OmegaTPortable.rar) (mediafire)
 
 ### Desc
 
